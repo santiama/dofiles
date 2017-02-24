@@ -2,14 +2,14 @@
 
 
 
-* OS: `Mac OS X`
+* OS: `macOS`
 * Window Manager: `kwm`
 * Terminal: `iTerm2`
-* Terminal Font: `menlo`
-* Terminal color scheme: `ryuuko`
+* Terminal Font: `Sauce Code Pro`
+* Terminal color scheme: `oceanicnext`
 * Text Editor: `neovim`
-* Editor Font: `menlo`
-* Music Player: `cmus`
+* Editor Font: `Sauce Code Pro`
+* Music Player: `spotify`
 * File Browser: `ranger`
 * Web Browser: `firefox`
 * Bar: `nerdbar`
